@@ -2,7 +2,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1F3A,45:174A87,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A35,35:123D75,70:1E5DB5,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
@@ -95,40 +95,22 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=2F81F7&text_color=8B949E&count_private=true&include_all_commits=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=2F81F7&text_color=656D76&count_private=true&include_all_commits=true"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=2F81F7&text_color=8B949E&count_private=true&include_all_commits=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=2F81F7&text_color=656D76&count_private=true&include_all_commits=true"/>
     <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=2F81F7&text_color=656D76&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
   </picture>
 
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=656D76&langs_count=6"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=656D76&langs_count=6"/>
     <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=656D76&langs_count=6" alt="Top Languages"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=00000000&stroke=58A6FF&ring=2F81F7&fire=79C0FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=00000000&stroke=0969DA&ring=2F81F7&fire=58A6FF&currStreakLabel=656D76&sideLabels=656D76&dates=656D76"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=00000000&stroke=58A6FF&ring=2F81F7&fire=79C0FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=00000000&stroke=0969DA&ring=2F81F7&fire=58A6FF&currStreakLabel=656D76&sideLabels=656D76&dates=656D76"/>
     <img width="70%" src="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=00000000&stroke=0969DA&ring=2F81F7&fire=58A6FF&currStreakLabel=656D76&sideLabels=656D76&dates=656D76" alt="GitHub Streak"/>
   </picture>
 </p>
@@ -141,14 +123,8 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true&custom_title=Contribution%20Activity"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=656D76&line=0969DA&point=0969DA&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true&custom_title=Contribution%20Activity"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=656D76&line=0969DA&point=0969DA&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity"/>
     <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=656D76&line=0969DA&point=0969DA&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
   </picture>
 </p>
@@ -185,5 +161,5 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,55:174A87,100:0B1F3A&height=100&section=footer" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,35:1E5DB5,70:123D75,100:071A35&height=120&section=footer" alt="Blue Gradient Footer"/>
 </p>
