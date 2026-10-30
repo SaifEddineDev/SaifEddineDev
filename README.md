@@ -30,7 +30,6 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 - 🚀 Exploring modern technologies, software architecture and AI.
 - 🤝 Open to collaboration, freelance opportunities and innovative projects.
 
----
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -54,7 +53,6 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 </p>
 
 
----
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -90,7 +88,6 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" alt="Tools and design"/>
 </p>
 
----
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
@@ -118,7 +115,6 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
   </picture>
 </p>
 
----
 
 <!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
 
@@ -132,7 +128,6 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
   </picture>
 </p>
 
----
 
 <!-- ===================== DEVELOPER QUOTE ===================== -->
 
