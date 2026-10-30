@@ -135,11 +135,11 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 ## 💬 Developer Quote
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Developer Quote"/>
-  </picture>
+  <strong><em>"Programs are meant to be read by humans and only incidentally for computers to execute."</em></strong>
+</p>
+
+<p align="center">
+  <sub>— Donald Knuth | Computer Scientist</sub>
 </p>
 
 ---
