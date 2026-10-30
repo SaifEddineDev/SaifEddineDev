@@ -11,9 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=44&lines=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences;Turning%20Ideas%20into%20Scalable%20Digital%20Solutions%20%F0%9F%9A%80" alt="Typing headlines"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&label=PROFILE%20VIEWS&color=2F81F7&style=for-the-badge" alt="Profile views"/>
-</p>
 
 
 <!-- ===================== ABOUT ME ===================== -->
