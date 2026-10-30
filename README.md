@@ -1,160 +1,158 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=200&section=header&text=Saif%20Eddine%20Bouafif&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" alt="Profile Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:142B4A,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=14&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
 </p>
-
-<!-- ==================== INTRO ==================== -->
-
-<h1 align="center">Hey there! 👋 I'm Saif Eddine</h1>
-
-<h3 align="center">
-  Full-Stack Developer | Building Modern Digital Experiences 🚀
-</h3>
 
 <p align="center">
   <a href="https://github.com/SaifEddineDev">
-    <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&label=Profile%20Views&color=2f81f7&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=56D4DD&center=true&vCenter=true&width=650&height=35&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions;Development+%7C+Design+%7C+Innovation" alt="Typing SVG"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-2f81f7?style=for-the-badge" alt="Focus"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=56D4DD&center=true&vCenter=true&width=700&height=50&lines=Turning+Ideas+Into+Digital+Solutions;Building+Modern+Full-Stack+Applications;Designing+Clean+and+Intuitive+Experiences;Always+Learning.+Always+Building." alt="Typing SVG"/>
+  <a href="https://github.com/SaifEddineDev">
+    <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile views"/>
+  </a>
 </p>
 
----
+<br/>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const saif = {
-    name: "Saif Eddine Bouafif",
-    role: "Full-Stack Developer",
-    interests: [
-        "Web Development",
-        "Software Architecture",
-        "UI/UX Design",
-        "Artificial Intelligence"
-    ],
-    currentlyWorkingOn: "Full-Stack Applications & SaaS Projects",
-    currentlyLearning: [
-        "Advanced Backend Development",
-        "Software Architecture",
-        "AI Technologies"
-    ],
-    philosophy: "Build. Learn. Improve. Repeat."
-};
-```
+I'm **Saif Eddine Bouafif**, a Full-Stack Developer passionate about software development, modern technologies, and creative digital experiences.
 
-- 💻 Passionate about developing modern and scalable web applications.
-- 🎨 Combining software development with creativity and UI/UX design.
-- 🌱 Continuously exploring new technologies and improving my skills.
-- 🤝 Open to collaborating on innovative projects and open-source initiatives.
-- ⚡ I believe great software combines functionality, performance and design.
+I enjoy transforming ideas into functional, scalable, and user-friendly applications while combining technical development with an eye for design.
 
----
+- 🔭 **Working on:** Full-Stack applications and SaaS platforms.
+- 🌱 **Learning:** Software Architecture, Advanced Backend Development & AI.
+- 🎨 **Interested in:** UI/UX Design, Graphic Design & Digital Innovation.
+- 🤝 **Open to:** Collaborations, exciting projects and open-source initiatives.
 
-<!-- ==================== TECH STACK ==================== -->
+<br/>
 
-## 🛠️ Technologies & Tools
+<!-- ===================================================== -->
+<!--                     TECH STACK                        -->
+<!-- ===================================================== -->
 
-### 💻 Programming Languages
+## 🧰 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Programming Languages"/>
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Languages"/>
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend Technologies"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend"/>
 </p>
 
-### 🗄️ Databases & ORM
+### Databases & Data Management
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=dark" alt="Databases"/>
 </p>
 
-### 🔧 Development Tools
+### Tools & Design
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Development Tools"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=dark" alt="Tools"/>
 </p>
 
----
+<br/>
 
-<!-- ==================== CONNECT ==================== -->
+<!-- ===================================================== -->
+<!--                      CONNECT                          -->
+<!-- ===================================================== -->
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/saif-eddine-bouafif-723058293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://saifeddinedev.github.io/nestora-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=googlechrome&logoColor=56d4dd" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=56D4DD" alt="Portfolio"/>
   </a>
   <a href="mailto:saifeddinebouafifdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
 
----
+<br/>
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=2f81f7&icon_color=56d4dd&text_color=c9d1d9&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=2f81f7&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=56D4DD&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
 </p>
 
-<!-- ==================== STREAK ==================== -->
+<br/>
+
+<!-- ===================================================== -->
+<!--                    GITHUB STREAK                      -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=SaifEddineDev&theme=tokyonight&background=0D1117&ring=2f81f7&fire=56d4dd&currStreakLabel=56d4dd&sideLabels=c9d1d9&hide_border=true" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=56D4DD&currStreakLabel=56D4DD&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
-<!-- ==================== CONTRIBUTIONS ==================== -->
+<br/>
+
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION GRAPH                   -->
+<!-- ===================================================== -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=0D1117&color=56d4dd&line=2f81f7&point=FFFFFF&area=true&area_color=2f81f7&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=0D1117&color=56D4DD&line=2F81F7&point=FFFFFF&area=true&area_color=142B4A&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </p>
 
----
+<br/>
 
-<!-- ==================== DEV QUOTE ==================== -->
+<!-- ===================================================== -->
+<!--                       QUOTE                           -->
+<!-- ===================================================== -->
 
-## 💭 Developer's Corner
+## 💭 A Developer's Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
----
+<br/>
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2F81F7,55:142B4A,100:0D1117&section=footer" alt="Footer"/>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 💙</b>
+  <b>Thanks for stopping by! 💙</b>
   <br/>
-  <sub>⭐ From <a href="https://github.com/SaifEddineDev">SaifEddineDev</a> | Built with passion and code.</sub>
+  <sub>Designed & built by <a href="https://github.com/SaifEddineDev">Saif Eddine Bouafif</a></sub>
 </p>
