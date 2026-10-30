@@ -35,11 +35,14 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 <!-- ===================== CONNECT ===================== -->
 
+
+<!-- ===================== CONNECT ===================== -->
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saif-eddine-bouafif-723058293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B57D0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=123D75" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084B91" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://saifeddinedev.github.io/nestora-portfolio/">
@@ -47,9 +50,10 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
   </a>
   &nbsp;
   <a href="mailto:saifeddinebouafifdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E5DB5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B3261E" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
