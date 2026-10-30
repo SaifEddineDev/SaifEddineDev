@@ -1,71 +1,160 @@
 
+<!-- ==================== HEADER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=200&section=header&text=Saif%20Eddine%20Bouafif&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" alt="Profile Header"/>
+</p>
+
+<!-- ==================== INTRO ==================== -->
+
+<h1 align="center">Hey there! 👋 I'm Saif Eddine</h1>
+
+<h3 align="center">
+  Full-Stack Developer | Building Modern Digital Experiences 🚀
+</h3>
+
 <p align="center">
   <a href="https://github.com/SaifEddineDev">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Saif%20Eddine" alt="Hello! I'm Saif Eddine" />
+    <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&label=Profile%20Views&color=2f81f7&style=for-the-badge" alt="Profile Views"/>
   </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-2f81f7?style=for-the-badge" alt="Focus"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=850&height=44&lines=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences;Turning%20Ideas%20into%20Scalable%20Digital%20Solutions%20%F0%9F%9A%80" alt="Typing headlines" />
-</p>
-
-### 🚀 About Me
-
-Full-Stack Developer passionate about building modern web applications, crafting intuitive user experiences, and turning creative ideas into scalable digital solutions. I combine development and design to create meaningful products.
-
-🔭 &nbsp;I'm currently working on **Building full-stack applications and exploring innovative digital solutions**  
-🌱 &nbsp;I'm currently learning **Advanced Backend Development, Software Architecture &amp; AI Technologies**  
-👯 &nbsp;I'm looking to collaborate on **Creative web projects, SaaS platforms, and open-source initiatives**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/saif-eddine-bouafif-723058293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://saifeddinedev.github.io/nestora-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:saifeddinebouafifdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=56D4DD&center=true&vCenter=true&width=700&height=50&lines=Turning+Ideas+Into+Digital+Solutions;Building+Modern+Full-Stack+Applications;Designing+Clean+and+Intuitive+Experiences;Always+Learning.+Always+Building." alt="Typing SVG"/>
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/SaifEddineDev">SaifEddineDev</a></i></p>
+
+<!-- ==================== ABOUT ME ==================== -->
+
+## 🚀 About Me
+
+```javascript
+const saif = {
+    name: "Saif Eddine Bouafif",
+    role: "Full-Stack Developer",
+    interests: [
+        "Web Development",
+        "Software Architecture",
+        "UI/UX Design",
+        "Artificial Intelligence"
+    ],
+    currentlyWorkingOn: "Full-Stack Applications & SaaS Projects",
+    currentlyLearning: [
+        "Advanced Backend Development",
+        "Software Architecture",
+        "AI Technologies"
+    ],
+    philosophy: "Build. Learn. Improve. Repeat."
+};
+```
+
+- 💻 Passionate about developing modern and scalable web applications.
+- 🎨 Combining software development with creativity and UI/UX design.
+- 🌱 Continuously exploring new technologies and improving my skills.
+- 🤝 Open to collaborating on innovative projects and open-source initiatives.
+- ⚡ I believe great software combines functionality, performance and design.
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Programming Languages"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Databases & ORM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=dark" alt="Databases"/>
+</p>
+
+### 🔧 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Development Tools"/>
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saif-eddine-bouafif-723058293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://saifeddinedev.github.io/nestora-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=googlechrome&logoColor=56d4dd" alt="Portfolio"/>
+  </a>
+  <a href="mailto:saifeddinebouafifdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=2f81f7&icon_color=56d4dd&text_color=c9d1d9&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=2f81f7&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<!-- ==================== STREAK ==================== -->
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=SaifEddineDev&theme=tokyonight&background=0D1117&ring=2f81f7&fire=56d4dd&currStreakLabel=56d4dd&sideLabels=c9d1d9&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=0D1117&color=56d4dd&line=2f81f7&point=FFFFFF&area=true&area_color=2f81f7&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph"/>
+</p>
+
+---
+
+<!-- ==================== DEV QUOTE ==================== -->
+
+## 💭 Developer's Corner
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 💙</b>
+  <br/>
+  <sub>⭐ From <a href="https://github.com/SaifEddineDev">SaifEddineDev</a> | Built with passion and code.</sub>
+</p>
