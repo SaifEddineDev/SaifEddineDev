@@ -1,16 +1,14 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== INTRO HEADER ===================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A35,35:123D75,70:1E5DB5,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
+  <a href="https://github.com/SaifEddineDev">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2F81F7&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Saif%20Eddine" alt="Hello! I'm Saif Eddine"/>
+  </a>
 </p>
 
-<!-- ===================== INTRO ===================== -->
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Graduate;Building+Modern+Web+Applications;Graphic+Designer+%26+Digital+Creator" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=44&lines=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences;Turning%20Ideas%20into%20Scalable%20Digital%20Solutions%20%F0%9F%9A%80" alt="Typing headlines"/>
 </p>
 
 <p align="center">
@@ -154,12 +152,8 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ===================== FOOTER TEXT ===================== -->
 
 <p align="center">
   <strong>✨ Building ideas into digital experiences.</strong>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,35:1E5DB5,70:123D75,100:071A35&height=120&section=footer" alt="Blue Gradient Footer"/>
 </p>
