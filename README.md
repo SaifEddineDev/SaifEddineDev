@@ -1,22 +1,15 @@
-
-<!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
-<!-- ===================================================== -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A35,45:123D75,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
 </p>
 
-<!-- ===================================================== -->
-<!--                       INTRO                           -->
-<!-- ===================================================== -->
+<!-- ===================== INTRO ===================== -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Graduate;Building+Modern+Web+Applications;Graphic+Designer+%26+Digital+Creator"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Graduate;Building+Modern+Web+Applications;Graphic+Designer+%26+Digital+Creator"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Graduate;Building+Modern+Web+Applications;Graphic+Designer+%26+Digital+Creator" alt="Typing SVG"/>
-  </picture>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Graduate;Building+Modern+Web+Applications;Graphic+Designer+%26+Digital+Creator" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -25,13 +18,13 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ===================================================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
-I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passionate about building modern web applications and creative digital experiences.
+<p>
+I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Designer passionate about building modern web applications and creative digital experiences.
+</p>
 
 - 🎓 Computer Science Graduate — Software Engineering & Information Systems.
 - 💻 Focused on Full-Stack Development and scalable web applications.
@@ -41,9 +34,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 
 ---
 
-<!-- ===================================================== -->
-<!--                    CONNECT WITH ME                     -->
-<!-- ===================================================== -->
+<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me
 
@@ -61,67 +52,43 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 
 ---
 
-<!-- ===================================================== -->
-<!--                       TECH STACK                       -->
-<!-- ===================================================== -->
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
 ### 💡 Programming Languages
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=light" alt="Programming languages"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Programming languages"/>
 </p>
 
 ### 🎨 Frontend Development
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=light" alt="Frontend technologies"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend technologies"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=light" alt="Backend technologies"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend technologies"/>
 </p>
 
 ### 🗄️ Databases & ORM
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=light" alt="Databases and ORM"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase" alt="Databases and ORM"/>
 </p>
 
 ### 🔧 Tools & Design
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=light" alt="Tools and design"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" alt="Tools and design"/>
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
-<!-- ===================================================== -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
 
@@ -148,15 +115,13 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CONTRIBUTION ACTIVITY                 -->
-<!-- ===================================================== -->
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true&custom_title=Contribution%20Activity"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=56D4DD&line=58A6FF&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true&custom_title=Contribution%20Activity"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=24292F&line=0969DA&point=0969DA&area=true&area_color=56D4DD&hide_border=true&custom_title=Contribution%20Activity"/>
     <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=24292F&line=0969DA&point=0969DA&area=true&area_color=56D4DD&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
   </picture>
@@ -164,9 +129,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 
 ---
 
-<!-- ===================================================== -->
-<!--                    DEVELOPER QUOTE                     -->
-<!-- ===================================================== -->
+<!-- ===================== DEVELOPER QUOTE ===================== -->
 
 ## 💬 Developer Quote
 
@@ -180,9 +143,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 
 ---
 
-<!-- ===================================================== -->
-<!--                        FOOTER                          -->
-<!-- ===================================================== -->
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
   <strong>✨ Building ideas into digital experiences.</strong>
