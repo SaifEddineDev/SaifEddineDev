@@ -140,29 +140,26 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 <!-- ===================== DEVELOPER QUOTE ===================== -->
 
+
 ## 💬 Developer Quote
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#071A35" style="border: 1px solid #2F81F7; border-radius: 12px; padding: 24px;">
-        <br/>
-        <img src="https://img.shields.io/badge/DEVELOPER%20MINDSET-2F81F7?style=for-the-badge&labelColor=123D75" alt="Developer Mindset"/>
-        <br/><br/>
-        <h3>
-          <font color="#58A6FF">❝</font>
-          <font color="#FFFFFF">Programs are meant to be read by humans and only incidentally for computers to execute.</font>
-          <font color="#58A6FF">❞</font>
-        </h3>
-        <br/>
-        <strong>
-          <font color="#79C0FF">— Donald Knuth</font>
-        </strong>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+    />
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+      alt="Developer Quote by Donald Knuth"
+    />
+  </picture>
 </p>
+
 
 ---
 
