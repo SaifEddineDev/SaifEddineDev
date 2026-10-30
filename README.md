@@ -133,6 +133,7 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 <!-- ==================== DEV QUOTE ==================== -->
 
 
+
 ## 💬 Developer Quote
 
 <p align="center">
@@ -148,10 +149,10 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
     <img
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
       alt="Developer Quote by Donald Knuth"
-      width="100%"
     />
   </picture>
 </p>
+
 
 
 ---
