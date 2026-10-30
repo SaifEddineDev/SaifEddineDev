@@ -130,22 +130,21 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 
 <!-- ===================== DEVELOPER QUOTE ===================== -->
-
-## 💬 Developer Quote
+### 💭 Dev Quote
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quote_color=FFFFFF&author_color=79C0FF&background_color=071A35&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quote_color=FFFFFF&author_color=79C0FF&background_color=071A35"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quote_color=FFFFFF&author_color=79C0FF&background_color=071A35&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quote_color=FFFFFF&author_color=79C0FF&background_color=071A35"
     />
     <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quote_color=FFFFFF&author_color=79C0FF&background_color=071A35&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
-      alt="Developer Quote by Donald Knuth"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quote_color=FFFFFF&author_color=79C0FF&background_color=071A35"
+      alt="Developer Quote"
     />
   </picture>
 </p>
