@@ -137,12 +137,20 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth" alt="Developer Quote by Donald Knuth"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+    />
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth"
+      alt="Developer Quote by Donald Knuth"
+    />
   </picture>
 </p>
-
 
 
 ---
