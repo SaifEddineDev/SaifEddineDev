@@ -15,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&label=PROFILE%20VIEWS&color=2F81F7&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
 
 <!-- ===================== ABOUT ME ===================== -->
 
