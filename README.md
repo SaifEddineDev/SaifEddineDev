@@ -135,7 +135,7 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 ## 💭 A Developer's Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
 ---
