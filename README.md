@@ -130,13 +130,14 @@ I'm <strong>Saif Eddine Bouafif</strong>, a Full-Stack Developer and Graphic Des
 
 
 <!-- ===================== DEVELOPER QUOTE ===================== -->
+
 ### 💭 Dev Quote
 
 <p align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2F81F7&quoteColor=FFFFFF&authorColor=79C0FF"
-    alt="Developer Quote"
-    width="100%"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&backgroundColor=071A35&quotecolor=FFFFFF&authorColor=79C0FF&symbolColor=2F81F7"
+    alt="Dev Quote"
+    width="75%"
   />
 </p>
 
