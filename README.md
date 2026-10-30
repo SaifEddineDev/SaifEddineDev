@@ -1,6 +1,6 @@
 
 <!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
+<!--                     PROFILE HEADER                    -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                       INTRO                           -->
+<!--                          INTRO                        -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -26,7 +26,7 @@
 ---
 
 <!-- ===================================================== -->
-<!--                       ABOUT ME                         -->
+<!--                         ABOUT ME                      -->
 <!-- ===================================================== -->
 
 ## 👨‍💻 About Me
@@ -42,7 +42,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 ---
 
 <!-- ===================================================== -->
-<!--                    CONNECT WITH ME                     -->
+<!--                     CONNECT WITH ME                   -->
 <!-- ===================================================== -->
 
 ## 🌐 Connect With Me
@@ -62,7 +62,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 ---
 
 <!-- ===================================================== -->
-<!--                       TECH STACK                       -->
+<!--                         TECH STACK                    -->
 <!-- ===================================================== -->
 
 ## 🛠️ Tech Stack
@@ -120,7 +120,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 ---
 
 <!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
+<!--                     GITHUB ANALYTICS                  -->
 <!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
@@ -149,7 +149,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 ---
 
 <!-- ===================================================== -->
-<!--                  CONTRIBUTION ACTIVITY                 -->
+<!--                  CONTRIBUTION ACTIVITY                -->
 <!-- ===================================================== -->
 
 ## 📈 Contribution Activity
@@ -165,7 +165,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 ---
 
 <!-- ===================================================== -->
-<!--                    DEVELOPER QUOTE                     -->
+<!--                    DEVELOPER QUOTE                    -->
 <!-- ===================================================== -->
 
 ## 💬 Developer Quote
@@ -181,7 +181,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer and Graphic Designer passion
 ---
 
 <!-- ===================================================== -->
-<!--                        FOOTER                          -->
+<!--                         FOOTER                        -->
 <!-- ===================================================== -->
 
 <p align="center">
