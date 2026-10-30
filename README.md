@@ -1,22 +1,18 @@
 
 <!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
+<!--                     PROFILE HEADER                    -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:142B4A,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=14&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A35,45:123D75,100:2F81F7&text=SAIF%20EDDINE%20BOUAFIF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=58&animation=fadeIn" alt="Saif Eddine Bouafif"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SaifEddineDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=56D4DD&center=true&vCenter=true&width=650&height=35&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions;Development+%7C+Design+%7C+Innovation" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=56D4DD&center=true&vCenter=true&width=650&height=35&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions;Development+%7C+Design+%7C+Innovation" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SaifEddineDev">
-    <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SaifEddineDev&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <br/>
@@ -31,7 +27,7 @@ I'm **Saif Eddine Bouafif**, a Full-Stack Developer passionate about software de
 
 I enjoy transforming ideas into functional, scalable, and user-friendly applications while combining technical development with an eye for design.
 
-- 🔭 **Working on:** Full-Stack applications and SaaS platforms.
+- 💻 **Working on:** Full-Stack applications and SaaS platforms.
 - 🌱 **Learning:** Software Architecture, Advanced Backend Development & AI.
 - 🎨 **Interested in:** UI/UX Design, Graphic Design & Digital Innovation.
 - 🤝 **Open to:** Collaborations, exciting projects and open-source initiatives.
@@ -44,31 +40,31 @@ I enjoy transforming ideas into functional, scalable, and user-friendly applicat
 
 ## 🧰 Technologies & Tools
 
-### Languages
+**Programming Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" alt="Programming Languages"/>
 </p>
 
-### Frontend Development
+**Frontend Development**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend"/>
 </p>
 
-### Backend Development
+**Backend Development**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend"/>
 </p>
 
-### Databases & Data Management
+**Databases & Data Management**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=dark" alt="Databases"/>
 </p>
 
-### Tools & Design
+**Tools & Design**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=dark" alt="Tools"/>
@@ -77,7 +73,7 @@ I enjoy transforming ideas into functional, scalable, and user-friendly applicat
 <br/>
 
 <!-- ===================================================== -->
-<!--                      CONNECT                          -->
+<!--                       CONNECT                         -->
 <!-- ===================================================== -->
 
 ## 🌐 Connect With Me
@@ -103,18 +99,12 @@ I enjoy transforming ideas into functional, scalable, and user-friendly applicat
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=56D4DD&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SaifEddineDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=56D4DD&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SaifEddineDev&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
 </p>
 
-<br/>
-
-<!-- ===================================================== -->
-<!--                    GITHUB STREAK                      -->
-<!-- ===================================================== -->
-
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=56D4DD&currStreakLabel=56D4DD&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=SaifEddineDev&theme=transparent&hide_border=true&background=00000000&stroke=2F81F7&ring=2F81F7&fire=56D4DD&currStreakLabel=56D4DD&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -126,29 +116,29 @@ I enjoy transforming ideas into functional, scalable, and user-friendly applicat
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=0D1117&color=56D4DD&line=2F81F7&point=FFFFFF&area=true&area_color=142B4A&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SaifEddineDev&bg_color=00000000&color=56D4DD&line=2F81F7&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </p>
 
 <br/>
 
 <!-- ===================================================== -->
-<!--                       QUOTE                           -->
+<!--                       DEV QUOTE                       -->
 <!-- ===================================================== -->
 
 ## 💭 A Developer's Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
 <br/>
 
 <!-- ===================================================== -->
-<!--                       FOOTER                          -->
+<!--                        FOOTER                          -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2F81F7,55:142B4A,100:0D1117&section=footer" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2F81F7,55:142B4A,100:071A35&section=footer" alt="Footer"/>
 </p>
 
 <p align="center">
